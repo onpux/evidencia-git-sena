@@ -26,3 +26,10 @@ Desde esta carpeta, ejecuta:
 4. Crear un repositorio remoto en GitHub.
 5. Conectar el repositorio local con el remoto y publicar los cambios.
 6. Verificar el historial de versiones y la sincronización entre ambos repositorios.
+
+## Verificación realizada
+
+- Repositorio local administrado con Git.
+- Rama principal: `main`.
+- Repositorio remoto alojado en GitHub.
+- Historial de versiones consultable mediante `git log`.
